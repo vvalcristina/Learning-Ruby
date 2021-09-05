@@ -12,5 +12,5 @@ Este repositório é dedicado a estudos iniciais sobre [Ruby](https://www.ruby-l
 
 ## Conteúdos:
 
-* [ruby-basico](): introdução ao Ruby (tipos de variáveis, operadores,estruturas condicionais, sintaxes)
-* [poo](): programação orientada a objetos.
+* [ruby-basico](https://github.com/vvalcristina/Learning-Ruby/tree/main/ruby-basico): introdução ao Ruby (tipos de variáveis, operadores,estruturas condicionais, sintaxes)
+* [poo](https://github.com/vvalcristina/Learning-Ruby/tree/main/poo): programação orientada a objetos.
