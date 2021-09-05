@@ -1,12 +1,6 @@
-# Ruby
 
-**Conhecendo o Ruby**:
 
-* Para executar algum arquivo do Ruby :
-
-```bash
-    ruby inicio.rb
-```
+# Ruby Básico
 
 **Entradas e saída**:
 
