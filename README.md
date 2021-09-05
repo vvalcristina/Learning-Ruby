@@ -1,12 +1,16 @@
-# Ruby
+# Learning Ruby
 
-**Conhecendo o Ruby**:
+Este repositório é dedicado a estudos iniciais sobre [Ruby](https://www.ruby-lang.org/pt/documentation/quickstart/).
 
-* Para executar algum arquivo do Ruby :
+## Setup:
 
 ```bash
-    ruby inicio.rb
+    1- docker-compose up -d on folder /ruby
+    2- docker exec -it ruby_crawler_1 /bin/bash
+    3- ruby inicio.rb
 ```
+
+## Ruby
 
 **Entradas e saída**:
 
